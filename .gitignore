@@ -3,10 +3,8 @@
 Thumbs.db
 
 # Exportações
-*.pdf
 *.docx
 *.pptx
-*.xlsx
 
 # Temporários
 *.tmp
