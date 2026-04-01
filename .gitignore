@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Exportações
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+
+# Temporários
+*.tmp
+*.bak
+~$*
